@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ImageUpload</string>
+    <string name="menu">Choose which task you want to perform</string>
+    <string name="chooseFile">Choose File</string>
+    <string name="uploadFile">Upload File</string>
+</resources>
